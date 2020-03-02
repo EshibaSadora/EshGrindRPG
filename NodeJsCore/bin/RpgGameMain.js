@@ -13,7 +13,7 @@ var app = express();
 
 var urlencodedParser = bodyParser.urlencoded({extended: false});
 
-db.Init(); //Подключение к mysql базе
+//db.Init(); //Подключение к mysql базе
 
 app.get('/bootstrap.min.css', function(req, res) {
     res.sendFile(__dirname  + "/lib/dist/css/bootstrap.min.css");
