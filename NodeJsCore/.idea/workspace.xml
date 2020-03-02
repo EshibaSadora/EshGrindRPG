@@ -12,6 +12,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -21,10 +22,17 @@
   <component name="ProjectId" id="1YL0pFnncjNkapvZe76i7PSjRwj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v10.16.0-win-x64/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\EshGrindRPG\NodeJsCore\html" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,12 +46,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.RpgGameMain.js">
+    <configuration name="RpgGameMain.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bin/RpgGameMain.js" working-dir="$PROJECT_DIR$/bin">
+      <method v="2" />
+    </configuration>
     <configuration name="TestForm.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bin/TestForm.js" working-dir="$PROJECT_DIR$/bin">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.RpgGameMain.js" />
         <item itemvalue="Node.js.TestForm.js" />
       </list>
     </recent_temporary>
@@ -59,6 +71,9 @@
       <option name="presentableId" value="Default" />
       <updated>1582706747179</updated>
       <workItem from="1582706748289" duration="10322000" />
+      <workItem from="1582885799143" duration="43000" />
+      <workItem from="1582886265036" duration="405000" />
+      <workItem from="1583129746149" duration="21411000" />
     </task>
     <servers />
   </component>
@@ -70,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

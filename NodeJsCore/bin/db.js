@@ -6,19 +6,25 @@ module.exports.connection;
 module.exports = {
 
     Init: function(){
-        connection = mysql.createConnection({
+         mysql = require('mysql');
+         connection = mysql.createConnection({
             host     : 'localhost',
-            user     : 'root',
-            password : '',
-            database : 'rpggame'
+            user     : 'eshiba',
+            password : 'eshiba',
+            database : 'rpggame',
+            port: 3306
         });
         connection.connect();
+        connection.on('error', function(err) {
+            console.log("[mysql error]",err);
+        });
+        console.log("Connected to mysql!");
     },
 
     DoSql: function () {
-        connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
-            if (error) throw error;
-            console.log('The solution is: ', results[0].solution);
+        connection.query('SELECT * FROM TEST', function (err, result, fields) {
+            if (err) throw err;
+            console.log(result);
         });
     },
 };

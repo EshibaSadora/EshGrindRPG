@@ -1,23 +1,12 @@
 var express = require('express');
 var bodyParser = require("body-parser");
 const delay = require('delay');
-//const db = require('./db');
-
+const db = require('./db');
 var app = express();
 
+db.Init();
+db.DoSql();
 
-var  mysql = require('mysql');
-var connection = mysql.createConnection({
-    host     : 'localhost',
-    user     : 'eshiba ',
-    password : 'eshiba',
-    database : 'rpggame'
-});
-connection.connect();
-
-connection.on('error', function(err) {
-    console.log("[mysql error]",err);
-});
 
 var urlencodedParser = bodyParser.urlencoded({extended: false});
 
