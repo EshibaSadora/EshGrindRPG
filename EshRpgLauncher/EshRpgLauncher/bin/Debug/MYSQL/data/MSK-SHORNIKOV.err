@@ -1,0 +1,163 @@
+2020-03-03T13:12:43.470242Z 0 [System] [MY-013169] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) initializing of server in progress as process 11772
+2020-03-03T13:12:43.470325Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T13:12:43.474852Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T13:13:18.150317Z 5 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2020-03-03T13:14:13.322716Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 12460
+2020-03-03T13:14:13.322808Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T13:14:13.358885Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T13:14:18.558012Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T13:14:18.707254Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T13:14:18.843609Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T13:42:06.626732Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 10388
+2020-03-03T13:42:06.637678Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T13:42:06.830119Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T13:42:07.215524Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T13:42:07.216171Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T13:42:07.248025Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2020-03-03T13:42:07.248836Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-03-03T13:42:07.249391Z 0 [ERROR] [MY-010119] [Server] Aborting
+2020-03-03T13:42:07.302936Z 0 [System] [MY-010910] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: Shutdown complete (mysqld 8.0.19)  MySQL Community Server - GPL.
+2020-03-03T13:42:21.843949Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 15632
+2020-03-03T13:42:21.844029Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T13:42:21.862388Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T13:42:26.730426Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T13:42:26.740587Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T13:42:27.407339Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T13:42:27.698435Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T13:42:27.958991Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T13:42:32.638861Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 5440
+2020-03-03T13:42:32.638946Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T13:42:32.679583Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T13:42:32.686557Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T13:42:32.687137Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T13:42:32.687711Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2020-03-03T13:42:32.688807Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-03-03T13:42:32.689362Z 0 [ERROR] [MY-010119] [Server] Aborting
+2020-03-03T13:42:32.691509Z 0 [System] [MY-010910] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: Shutdown complete (mysqld 8.0.19)  MySQL Community Server - GPL.
+2020-03-03T14:03:05.252174Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 20808
+2020-03-03T14:03:05.252279Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:03:05.301073Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:03:10.078562Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 576
+2020-03-03T14:03:10.107223Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:03:10.383237Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:03:10.391310Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T14:03:10.391883Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T14:03:10.408988Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2020-03-03T14:03:10.412965Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-03-03T14:03:10.413540Z 0 [ERROR] [MY-010119] [Server] Aborting
+2020-03-03T14:03:10.631335Z 0 [System] [MY-010910] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: Shutdown complete (mysqld 8.0.19)  MySQL Community Server - GPL.
+2020-03-03T14:03:13.200882Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:03:13.213487Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:03:14.202618Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:03:14.616491Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:03:14.723241Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:05:02.182033Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 11108
+2020-03-03T14:05:02.182253Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:05:02.211217Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:05:07.612023Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:05:07.623559Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:05:08.280655Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:05:08.368094Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:05:08.429343Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:18:06.791055Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 5508
+2020-03-03T14:18:06.791179Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:18:06.812311Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:18:10.552066Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:18:10.563519Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:18:11.655046Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:18:11.781864Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:18:11.876257Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:18:12.927843Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 14728
+2020-03-03T14:18:12.927926Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:18:13.029053Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:18:13.036909Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T14:18:13.037505Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T14:18:13.064844Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2020-03-03T14:18:13.065682Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-03-03T14:18:13.066250Z 0 [ERROR] [MY-010119] [Server] Aborting
+2020-03-03T14:18:13.129266Z 0 [System] [MY-010910] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: Shutdown complete (mysqld 8.0.19)  MySQL Community Server - GPL.
+2020-03-03T14:18:55.717162Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 3276
+2020-03-03T14:18:55.717356Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:18:55.761686Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:18:59.297342Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:18:59.309050Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:19:00.648555Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:19:00.722637Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:19:00.849371Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:21:28.207574Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 14228
+2020-03-03T14:21:28.207669Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:21:28.241540Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:21:28.249566Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T14:21:28.250140Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T14:21:28.250717Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2020-03-03T14:21:28.251488Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-03-03T14:21:28.252029Z 0 [ERROR] [MY-010119] [Server] Aborting
+2020-03-03T14:21:28.253031Z 0 [System] [MY-010910] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: Shutdown complete (mysqld 8.0.19)  MySQL Community Server - GPL.
+2020-03-03T14:21:34.380652Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 23788
+2020-03-03T14:21:34.380736Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:21:34.406270Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:21:37.686316Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:21:37.695765Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:21:38.588043Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:21:38.651202Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:21:38.765327Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:21:43.757195Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 2028
+2020-03-03T14:21:43.757290Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:21:43.780803Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:21:48.994299Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:21:49.004209Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:21:49.537272Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:21:49.617329Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:21:49.774425Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:24:16.329266Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 23108
+2020-03-03T14:24:16.329355Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:24:16.369605Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:24:19.340419Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:24:19.350271Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:24:19.759785Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:24:20.273485Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:24:20.385798Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:24:22.151017Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 14940
+2020-03-03T14:24:22.151110Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:24:22.194602Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:24:22.203305Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T14:24:22.203878Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2020-03-03T14:24:22.204436Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2020-03-03T14:24:22.206139Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2020-03-03T14:24:22.206699Z 0 [ERROR] [MY-010119] [Server] Aborting
+2020-03-03T14:24:22.207552Z 0 [System] [MY-010910] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: Shutdown complete (mysqld 8.0.19)  MySQL Community Server - GPL.
+2020-03-03T14:24:34.084561Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 24176
+2020-03-03T14:24:34.084660Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:24:34.128097Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:24:37.325718Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 19864
+2020-03-03T14:24:37.325805Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:24:37.360433Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:24:40.432195Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:24:40.441682Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:24:40.800221Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:24:41.076547Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:24:41.288764Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:25:04.957517Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 21300
+2020-03-03T14:25:04.957617Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:25:04.983091Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:25:08.347720Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:25:08.357277Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:25:09.248320Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:25:09.319880Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:25:09.433652Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:25:57.445387Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 9816
+2020-03-03T14:25:57.445482Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:25:57.489562Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:26:00.735185Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:26:00.746037Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:26:01.069642Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:26:01.098213Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:26:01.358561Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:26:53.876082Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 16596
+2020-03-03T14:26:53.876167Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:26:53.917155Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:26:57.097618Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:26:57.107372Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:26:57.390435Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:26:57.803981Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:26:57.947337Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060

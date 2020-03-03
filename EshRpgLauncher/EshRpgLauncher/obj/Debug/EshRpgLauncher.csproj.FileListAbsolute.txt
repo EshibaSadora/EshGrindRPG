@@ -1,0 +1,9 @@
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\EshRpgLauncher.exe.config
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\EshRpgLauncher.exe
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\EshRpgLauncher.pdb
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\obj\Debug\EshRpgLauncher.csprojAssemblyReference.cache
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\obj\Debug\EshRpgLauncher.Form1.resources
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\obj\Debug\EshRpgLauncher.Properties.Resources.resources
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\obj\Debug\EshRpgLauncher.csproj.GenerateResource.cache
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\obj\Debug\EshRpgLauncher.exe
+E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\obj\Debug\EshRpgLauncher.pdb
