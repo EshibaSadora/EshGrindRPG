@@ -1,3 +1,5 @@
 .metadata/
 .project
 .classpath
+*.ibt
+EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\

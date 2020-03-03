@@ -161,3 +161,11 @@
 2020-03-03T14:26:57.390435Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
 2020-03-03T14:26:57.803981Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
 2020-03-03T14:26:57.947337Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-03T14:43:42.117575Z 0 [System] [MY-010116] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe (mysqld 8.0.19) starting as process 8916
+2020-03-03T14:43:42.117669Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2020-03-03T14:43:42.139290Z 0 [Warning] [MY-000081] [Server] option 'innodb-log-file-size': unsigned value 1048576 adjusted to 4194304.
+2020-03-03T14:43:44.103074Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-03-03T14:43:44.113331Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-03-03T14:43:44.521220Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-03T14:43:44.941701Z 0 [System] [MY-010931] [Server] E:\GitHub\EshGrindRPG\EshRpgLauncher\EshRpgLauncher\bin\Debug\MYSQL\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-03T14:43:45.024350Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
